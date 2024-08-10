@@ -1,0 +1,40 @@
+
+.register{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whites;
+    text-align: center;
+    min-height: 100vh;
+    width: 100%;
+}
+
+
+
+.registerforms form{
+    display: flex;
+    align-items: center;
+width: 100%;
+    flex-direction: column;
+margin: 20px 0;
+}
+
+.registerforms form input{
+    margin: 10px 0;
+    padding: 10px;
+    width: 280%;
+    height: 47px;
+border-radius: 10px;
+    border: 1px solid rgb(211, 210, 210);
+}
+
+.regiterdiv{
+    display: flex;
+    
+}
+.registerforms h5 {
+    width: 280%;
+    margin-top: 43px;
+    text-align: start;
+}
